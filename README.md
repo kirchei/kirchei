@@ -1,5 +1,2 @@
 - 👋 Hi, I’m Justine
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React, MongoDB, and JQuery
-- 💞️ I’m looking to collaborate on small-scale projects
 - 📫 How to reach me: Discord - sei.ji
