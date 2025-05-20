@@ -1,2 +1,1 @@
 - 👋 Hi, I’m Justine
-- 📫 How to reach me: Discord - sei.ji
